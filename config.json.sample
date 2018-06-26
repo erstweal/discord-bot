@@ -37,7 +37,7 @@
             "mninfo": [list of channel names for this command],
             "tip": [list of channel names for this command],
             "soak": [list of channel names for this command],
-            "rain"; [list of channel names for this command],
+            "rain": [list of channel names for this command],
             "soak_info": [list of channel names for this command],
             "checksoak": [list of channel names for this command
         },
